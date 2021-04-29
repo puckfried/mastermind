@@ -4,7 +4,7 @@ function create (array=[]) {
     // array = [1,1,1,1,1]
     for (i=0;i<3;i++){
         array.push(Math.floor(Math.random()*4))}
-        alert(array);
+        // alert(array);
     return array}
 
 //Function takes the user input
