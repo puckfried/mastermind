@@ -1,2 +1,2 @@
-# mastermind
-a simple mastermind clone using only alert
+# Super Code
+a simple Super Code (Mastermind) clone using alert, prompt and callback functions
